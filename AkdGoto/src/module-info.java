@@ -1,0 +1,3 @@
+module AkdGoto {
+	requires spigot;
+}

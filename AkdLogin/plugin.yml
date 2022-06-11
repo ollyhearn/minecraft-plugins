@@ -1,0 +1,15 @@
+name: AkdLogin
+main: nodomain.akd.Main
+version: 0.2
+author: Oliver Hearn
+description: Secured login plugin
+api-version: 1.18
+commands:
+  login:
+    description: §e Logins you to the AkdBedwars
+#    usage: |
+#      /<command> [password]
+  register:
+    description: §e Registers you account, if you're new to the AkdBedwars
+#    usage: |
+#      /<command> <password> <repeat password>

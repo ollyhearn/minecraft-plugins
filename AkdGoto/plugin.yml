@@ -1,0 +1,16 @@
+main: nodomain.akd.Main
+name: AkdGoto
+version: 0.3
+author: akd
+description: Goto any world of your server!
+api-version: 1.18
+commands:
+    goto:
+      description: Transfers you to wished world
+#      usage: /<command> [world]
+#      permission: myplugin.mycommand
+#      permission-message: You don't have the myplugin.mycommand permission.
+
+    genworld:
+      description: Creates void world
+#      usage: /<command> [world name]
