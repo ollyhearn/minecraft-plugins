@@ -1,5 +1,5 @@
 # minecraft-plugins
-Simple minecraft plugins, that i wrote for my server
+Simple minecraft spigot plugins, that i wrote for my server
 
 **AkdLogin**
 Login plaugin, that uses SQLite database and MD5 hashsum to gurantee secure login. After logging in player will be teleported into a specified world. **Reques AkdGoTo**
